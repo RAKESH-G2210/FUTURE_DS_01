@@ -29,4 +29,7 @@ high-value categories, and regional performance.
 - Use dashboards for continuous business monitoring
 
 ## Dashboard
-(Add Tableau Public link here or screenshots)
+<img width="2409" height="1283" alt="image" src="https://github.com/user-attachments/assets/18e49787-d1cc-4141-aeff-0f0911599a39" />
+<img width="2410" height="332" alt="image" src="https://github.com/user-attachments/assets/993da282-2f34-46f5-b3a5-7cf74c4fcda4" />
+
+
